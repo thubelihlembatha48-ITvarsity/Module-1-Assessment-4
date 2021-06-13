@@ -1,0 +1,19 @@
+h1{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px
+    text-shadow: chartreuse;
+}
+
+table{
+    background-color: cornflowerblue;
+    border-radius: 15px 15px;
+    text-decoration: darkred;
+    text-shadow:fuchsia;
+}
+th{
+    background-color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 10px 10px;
+}
